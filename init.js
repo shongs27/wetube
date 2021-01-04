@@ -1,8 +1,13 @@
 import app from "./app"
+import "./db";
+import dotenv from "dotenv";
+dotenv.config();
 
-const PORT = 4000;
+const PORT = process.env.PORT || 4000;
 
 app.listen(PORT, function(){
-    console.log(`succesful!!! Log on ${PORT}`)
-}
+    console.log(`Succesful!!! Log on ${PORT}`)
+    }
 );
+
+

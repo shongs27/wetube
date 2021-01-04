@@ -2,7 +2,7 @@
 
 ## Pages:
 
-- [ ] Home
+- [x] Home
 - [x] Join
 - [x] Login
 - [x] Search
@@ -12,4 +12,8 @@
 - [x] Upload 
 - [x] Video Detail
 - [x] Edit Video
+
+21.01.04 mongoose upload까지 진행 - 보류
+
+
 
