@@ -13,7 +13,5 @@
 - [x] Video Detail
 - [x] Edit Video
 
-21.01.04 mongoose upload까지 진행 - 보류
-
-
-
+21.01.04 mongoose Upload까지 진행 
+--------------보류
